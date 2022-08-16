@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Description the project.
+> This project is built as sample to test github skills, knowledge and understading
 
 
 ## Built With
