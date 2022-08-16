@@ -29,5 +29,3 @@ Double click to install
 - GitHub: [@https://github.com/j-tee)
 
 
-👤 **Author2**
-
