@@ -32,7 +32,7 @@ To get a local copy for this project and running follow these simple example ste
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/j-tee/hello-microverse.git/issues/).
+Feel free to check the [issues page](https://github.com/j-tee/hello-microverse/issues/).
 
 ## Show your support
 
