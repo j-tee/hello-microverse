@@ -2,30 +2,48 @@
 
 # Hello Microverse
 
-> This project is built as sample to test github skills, knowledge and understading
-
+> The goal for this project is to master all of the tools and best practices we learned about in previous steps, such as GitHub flow, linter configuration.
 
 ## Built With
 
-- html, css and javascript
-- Bootstrap
+- HTML
+- CSS
 
+## Getting Started
 
-
-To get a local copy up and running follow the steps below.
+To get a local copy for this project and running follow these simple example steps.
 
 ### Prerequisites
-A computer running windows 10 and above
+
+- You need to have git installed in your machine.
+
 ### Setup
-Unzip into a local folder
-### Install
-Double click to install
+
+- To clone the repository run this command `git clone https://github.com/j-tee/hello-microverse.git`
 
 
-## Authors
+## Author
 
 👤 **TeeJay**
 
 - GitHub: [@https://github.com/j-tee)
 
+## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/j-tee/hello-microverse/issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is MIT licensed.
